@@ -17,6 +17,12 @@ Modern Azure AI Foundry + Agent Framework dark & light theme for focused agent d
 
 Docs & agent patterns: <https://iloveagents.ai>
 
+## Screenshots
+
+Light: ![Light Theme](images/screenshot-light.png)
+
+Dark: ![Dark Theme](images/screenshot-dark.png)
+
 ---
 
 ## More Details (Repository Only)
@@ -48,7 +54,6 @@ Issues & improvements welcome: <https://github.com/iLoveAgents/vscode-iloveagent
 
 ### License
 
-vsce publish
 MIT. Not affiliated with Microsoft; “Azure” & related names are trademarks of Microsoft.
 
 Enjoy & build great agents! 💙
