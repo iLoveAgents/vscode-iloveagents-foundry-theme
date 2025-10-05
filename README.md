@@ -1,8 +1,8 @@
-# iLoveAgents – AI Foundry Theme
+# iLoveAgents – Azure AI Foundry Theme
 
 Modern Azure AI Foundry + Agent Framework dark & light theme for focused agent development. Purposeful purple (functions), Azure blue (structure), teal (success & diagnostics).
 
-**Why**: Faster iteration while building tools, prompts, evaluation flows, and multi-agent orchestration on Azure AI Foundry.
+**Why**: Faster iteration (and simply more fun) while building tools, prompts, evaluation flows, and multi‑agent orchestration on Azure AI Foundry + the Microsoft Agent Framework.
 
 **Highlights**
 • Azure AI Foundry aligned palette (purple • azure • teal)  
