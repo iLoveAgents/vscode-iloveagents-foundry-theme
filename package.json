@@ -1,0 +1,40 @@
+{
+  "name": "iloveagents-ai-foundry-theme",
+  "displayName": "iLoveAgents – AI Foundry Theme",
+  "description": "iLoveAgents (iloveagents.ai) cool Azure AI Foundry themed palette: purple • azure blue • cyan • teal, optimized for readability.",
+  "version": "0.1.0",
+  "publisher": "iloveagents",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "azure",
+    "ai",
+    "foundry",
+    "agents",
+    "iloveagents"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "iLoveAgents - AI Foundry Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/azure-ai-foundry-dark.json"
+      },
+      {
+        "label": "iLoveAgents - AI Foundry Light",
+        "uiTheme": "vs",
+        "path": "./themes/azure-ai-foundry-light.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iloveagents/iloveagents-ai-foundry-theme"
+  }
+}

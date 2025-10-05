@@ -1,0 +1,53 @@
+# Node / VS Code Extension / Theme ignores
+node_modules/
+
+# Build outputs
+out/
+dist/
+*.vsix
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Coverage / test
+coverage/
+.nyc_output/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Editor
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc caches
+*.log
+.parcel-cache/
+.rollup.cache/
+.cache/
+
+# Python cache (sample file opened in repo)
+__pycache__/
+*.py[cod]
+
+# Mypy / type checking
+.mypy_cache/
+.dmypy.json
+
+# Others
+.idea/
+*.swp
