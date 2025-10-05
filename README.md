@@ -47,6 +47,7 @@ Extended design principles, configuration tips, roadmap & contribution guideline
 Issues & improvements welcome: <https://github.com/iLoveAgents/vscode-iloveagents-foundry-theme>
 
 ### License
+
 vsce publish
 MIT. Not affiliated with Microsoft; “Azure” & related names are trademarks of Microsoft.
 
