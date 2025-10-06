@@ -1,20 +1,11 @@
 <idea-plugin>
-  <id>com.iloveagents.foundry.theme</id>
-  <name>iLoveAgents Azure AI Foundry Theme</name>
+    <id>com.iloveagents.foundry-theme</id>
+  <name>iLoveAgents Themes</name>
   <version>1.1.0</version>
-  <vendor email="support@iloveagents.com" url="https://github.com/iLoveAgents">iLoveAgents</vendor>
+  <vendor email="contact@iloveagents.com" url="https://iloveagents.com">iLoveAgents</vendor>
 
   <description><![CDATA[
-    Modern Azure AI Foundry–inspired theme for JetBrains IDEs.
-    <br><br>
-    Features:
-    <ul>
-      <li>Dark and Light themes</li>
-      <li>Purple accent (#8b5cf6)</li>
-      <li>Azure blue for structure</li>
-      <li>Teal for success</li>
-      <li>Clean, modern UI</li>
-    </ul>
+    Professional color themes for developers - includes classic and Azure AI Foundry variants.
   ]]></description>
 
   <change-notes><![CDATA[
@@ -31,6 +22,8 @@
   <depends>com.intellij.modules.platform</depends>
 
   <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="com.iloveagents.classic.dark" path="/themes/iLoveAgents_Classic_Dark.theme.json"/>
+    <themeProvider id="com.iloveagents.classic.light" path="/themes/iLoveAgents_Classic_Light.theme.json"/>
     <themeProvider id="com.iloveagents.foundry.azure.dark" path="/themes/iLoveAgents_Azure_AI_Foundry_Dark.theme.json"/>
     <themeProvider id="com.iloveagents.foundry.azure.light" path="/themes/iLoveAgents_Azure_AI_Foundry_Light.theme.json"/>
   </extensions>

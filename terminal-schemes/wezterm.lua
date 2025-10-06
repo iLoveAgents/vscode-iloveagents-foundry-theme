@@ -1,19 +1,19 @@
 -- iLoveAgents Azure AI Foundry - WezTerm color scheme
 local M = {
-  foreground = "#e5e7eb",
-  background = "#14161a",
-  cursor_bg = "#8b5cf6",
-  cursor_border = "#8b5cf6",
-  cursor_fg = "#14161a",
-  selection_bg = "#2b2236",
-  selection_fg = "#e5e7eb",
+  foreground = "#e4e6eb",
+  background = "#101224",
+  cursor_bg = "#5637C9",
+  cursor_border = "#5637C9",
+  cursor_fg = "#101224",
+  selection_bg = "#1e2238",
+  selection_fg = "#e4e6eb",
   ansi = {
-    "#1f2428","#f87171","#14b8a6","#fbbf24",
-    "#60a5fa","#a78bfa","#22d3ee","#e5e7eb"
+    "#1a1d2e","#E84855","#0FA8A0","#C89C26",
+    "#0078D4","#E3008C","#1AA4E8","#e4e6eb"
   },
   brights = {
-    "#374151","#fca5a5","#2dd4bf","#fcd34d",
-    "#93c5fd","#c4b5fd","#67e8f9","#f3f4f6"
+    "#3d4255","#F16A75","#3EC4BD","#D9B04F",
+    "#3A95E0","#EA3AA3","#4AB8ED","#f5f6f8"
   },
 }
 return M

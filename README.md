@@ -1,19 +1,30 @@
-# iLoveAgents – Azure AI Foundry Theme
+# iLoveAgents - Azure AI Foundry Themes
 
-Modern Azure AI Foundry + Agent Framework dark & light theme for focused agent development. Purposeful purple (functions), Azure blue (structure), teal (success & diagnostics).
+Professional color themes for developers - choose between vibrant classic or modern Azure AI Foundry palettes.
 
-**Why**: Faster iteration (and simply more fun) while building tools, prompts, evaluation flows, and multi‑agent orchestration on Azure AI Foundry + the Microsoft Agent Framework.
+**Two Theme Families:**
+
+🎨 **iLoveAgents - Dark/Light** (Classic)  
+Vibrant purple-teal palette with high energy. Functions in purple `#8b5cf6`, success in teal `#14b8a6`, strings in pink `#f472b6`.
+
+🌐 **iLoveAgents - Azure AI Foundry Dark/Light**  
+Logo-coherent modern palette optimized for Azure AI development. Functions in indigo `#5637C9`, keywords in azure `#0078D4`, strings in magenta `#E3008C`, numbers in cyan `#1AA4E8`.
 
 **Highlights**
-• Azure AI Foundry aligned palette (purple • azure • teal)  
+• Four complete themes: classic + Azure AI Foundry variants in dark/light  
 • Agent Framework friendly (function + tool call clarity)  
-• Distinct semantics: keywords azure, functions purple, strings pink, numbers cool‑teal  
-• Tuned terminal ANSI (teal success; clearer red/yellow)  
+• Distinct semantics: clear visual hierarchy for code elements  
+• Matching terminal schemes (Ghostty, Kitty, Alacritty, WezTerm, iTerm2, Windows Terminal)  
+• JetBrains variants available (IntelliJ, PyCharm, etc.)  
 • Low color noise → longer, less fatiguing sessions  
 
-**Palette (Dark / Light)** Keywords `#0078d4 / #60a5fa` • Functions `#8b5cf6 / #a78bfa` • Strings `#d7368f / #f472b6` • Numbers `#046b5f / #11a194` • Success `#0d766e / #14b8a6` • Error `#d92c3a / #f87171`
+**Azure AI Foundry Palette (Dark / Light)**  
+Keywords `#0078D4` • Functions `#5637C9 / #5D4BD8` • Strings `#E3008C / #D90082` • Numbers `#1AA4E8 / #008FD8` • Success `#0FA8A0 / #079A93` • Error `#E84855 / #D92C3A` • Background `#101224 / #FFFFFF`
 
-**Install**: Extensions View → search “iLoveAgents AI Foundry” → choose Dark or Light.
+**Classic Palette (Dark / Light)**  
+Functions `#8b5cf6` • Keywords `#60a5fa` • Strings `#f472b6 / #d7368f` • Numbers/Success `#14b8a6 / #0d766e` • Error `#f87171 / #d92c3a` • Background `#14161a / #ffffff`
+
+**Install**: Extensions View → search "iLoveAgents Themes" → choose your preferred variant.
 
 Docs & agent patterns: <https://iloveagents.ai>
 
@@ -79,6 +90,6 @@ Issues & improvements welcome: <https://github.com/iLoveAgents/vscode-iloveagent
 
 ### License
 
-MIT. Not affiliated with Microsoft; “Azure” & related names are trademarks of Microsoft.
+MIT. Not affiliated with Microsoft; "Azure" & related names are trademarks of Microsoft.
 
 Enjoy & build great agents! 💙

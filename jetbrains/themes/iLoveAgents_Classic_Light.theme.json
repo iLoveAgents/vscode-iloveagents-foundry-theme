@@ -1,0 +1,34 @@
+{
+  "name": "iLoveAgents - Light",
+  "dark": false,
+  "author": "iLoveAgents",
+  "editorScheme": "/colors/iLoveAgents_Azure_AI_Foundry_Light.xml",
+  "ui": {
+    "*": {"background": "#fafafa", "foreground": "#1f2937", "selectionBackground": "#8b5cf6", "selectionForeground": "#ffffff", "borderColor": "#e5e7eb", "focusColor": "#8b5cf6", "inactiveFocusColor": "#c4b5fd"},
+    "Editor": {"background": "#ffffff", "foreground": "#1f2937"},
+    "StatusBar": {"background": "#fafafa", "foreground": "#8b5cf6"},
+    "EditorTabs": {"background": "#fafafa", "selectedBackground": "#ffffff", "selectedForeground": "#1f2937", "inactiveForeground": "#6b7280", "underlineColor": "#8b5cf6"},
+    "Tree": {"background": "#fafafa", "foreground": "#1f2937", "selectionBackground": "#8b5cf640"},
+    "Terminal": {
+      "background": "#ffffff",
+      "foreground": "#1f2937",
+      "selectionBackground": "#8b5cf620",
+      "black": "#2c2f33",
+      "red": "#d92c3a",
+      "green": "#046b5f",
+      "yellow": "#b97300",
+      "blue": "#0078d4",
+      "magenta": "#8b5cf6",
+      "cyan": "#0d6bb8",
+      "white": "#fafafa",
+      "brightBlack": "#475569",
+      "brightRed": "#ef4d55",
+      "brightGreen": "#0d9488",
+      "brightYellow": "#d97706",
+      "brightBlue": "#60a5fa",
+      "brightMagenta": "#c084fc",
+      "brightCyan": "#38bdf8",
+      "brightWhite": "#ffffff"
+    }
+  }
+}

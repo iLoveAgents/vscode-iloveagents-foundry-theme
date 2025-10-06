@@ -1,10 +1,10 @@
 {
-  "name": "iLoveAgents Azure AI Foundry – Light",
+  "name": "iLoveAgents - Azure AI Foundry (Light)",
   "dark": false,
   "author": "iLoveAgents",
   "editorScheme": "/colors/iLoveAgents_Azure_AI_Foundry_Light.xml",
   "ui": {
-    "*": {"background": "#fafafa", "foreground": "#1f2937", "selectionBackground": "#8b5cf6", "selectionForeground": "#ffffff", "borderColor": "#e5e7eb", "focusColor": "#8b5cf6", "inactiveFocusColor": "#c4b5fd"},
+    "*": {"background": "#FCFCFD", "foreground": "#1E2530", "selectionBackground": "#D7E9F7", "selectionForeground": "#1E2530", "borderColor": "#E3E6EA", "focusColor": "#5D4BD8", "inactiveFocusColor": "#BFB4F5"},
     "ActionButton": {
       "hoverBackground": "#8b5cf610",
       "hoverBorderColor": "#8b5cf6",
@@ -23,30 +23,30 @@
         "focusBorderColor": "#8b5cf6"
       }
     },
-    "Editor": {"background": "#ffffff", "foreground": "#1f2937"},
-    "StatusBar": {"background": "#fafafa", "foreground": "#8b5cf6"},
-    "EditorTabs": {"background": "#fafafa", "selectedBackground": "#ffffff", "selectedForeground": "#1f2937", "inactiveForeground": "#6b7280", "underlineColor": "#8b5cf6"},
-    "Tree": {"background": "#fafafa", "foreground": "#1f2937", "selectionBackground": "#8b5cf640"},
+  "Editor": {"background": "#FFFFFF", "foreground": "#1E2530"},
+  "StatusBar": {"background": "#FCFCFD", "foreground": "#4E5A66"},
+  "EditorTabs": {"background": "#FCFCFD", "selectedBackground": "#FFFFFF", "selectedForeground": "#1E2530", "inactiveForeground": "#6b7280", "underlineColor": "#0078D4"},
+  "Tree": {"background": "#FCFCFD", "foreground": "#323B44", "selectionBackground": "#D7E9F760"},
     "Terminal": {
-      "background": "#ffffff",
-      "foreground": "#1f2937",
-      "selectionBackground": "#8b5cf620",
-      "black": "#1f2937",
-      "red": "#ef4444",
-      "green": "#046b5f",
-      "yellow": "#b97300",
-      "blue": "#0078d4",
-      "magenta": "#a855f7",
-      "cyan": "#0d6bb8",
-      "white": "#fafafa",
-      "brightBlack": "#475569",
-      "brightRed": "#f87171",
-      "brightGreen": "#0d9488",
-      "brightYellow": "#d97706",
-      "brightBlue": "#60a5fa",
-      "brightMagenta": "#c084fc",
-      "brightCyan": "#38bdf8",
-      "brightWhite": "#ffffff"
+      "background": "#FFFFFF",
+      "foreground": "#1E2530",
+      "selectionBackground": "#D7E9F740",
+      "black": "#2F353A",
+      "red": "#D92C3A",
+      "green": "#079A93",
+      "yellow": "#AE800F",
+      "blue": "#0078D4",
+      "magenta": "#D90082",
+      "cyan": "#008FD8",
+      "white": "#1E2530",
+      "brightBlack": "#4B5563",
+      "brightRed": "#EF4D55",
+      "brightGreen": "#0BB2AA",
+      "brightYellow": "#C59317",
+      "brightBlue": "#0E8FE2",
+      "brightMagenta": "#F03A95",
+      "brightCyan": "#28A9E8",
+      "brightWhite": "#374151"
     }
   }
 }
