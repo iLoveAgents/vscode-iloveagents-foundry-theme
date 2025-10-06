@@ -14,7 +14,7 @@ cp -r . ~/.vscode/extensions/azure-ai-foundry-theme
 
 # Restart VS Code, then:
 # Press: Cmd+K Cmd+T (Mac) or Ctrl+K Ctrl+T (Windows/Linux)
-# Select: "Azure AI Foundry Dark" or "Azure AI Foundry Light"
+# Select: "iLoveAgents - Azure AI Foundry Dark" or "iLoveAgents - Azure AI Foundry Light"
 ```
 
 ### Method 2: Package as VSIX (For Sharing)

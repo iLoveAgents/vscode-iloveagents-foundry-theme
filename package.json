@@ -1,8 +1,8 @@
 {
   "name": "iloveagents-ai-foundry-theme",
-  "displayName": "iLoveAgents – AI Foundry Theme",
+  "displayName": "iLoveAgents – Azure AI Foundry Theme",
   "description": "Modern Azure AI Foundry–inspired dark + light theme: purposeful purple, azure structure, teal success.",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "publisher": "iloveagents",
   "engines": {
     "vscode": "^1.80.0"
@@ -11,6 +11,7 @@
     "Themes"
   ],
   "keywords": [
+    "agent-framework",
     "theme",
     "color-theme",
     "azure",
@@ -25,12 +26,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "iLoveAgents - AI Foundry Dark",
+        "label": "iLoveAgents - Azure AI Foundry Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/azure-ai-foundry-dark.json"
       },
       {
-        "label": "iLoveAgents - AI Foundry Light",
+        "label": "iLoveAgents - Azure AI Foundry Light",
         "uiTheme": "vs",
         "path": "./themes/azure-ai-foundry-light.json"
       }

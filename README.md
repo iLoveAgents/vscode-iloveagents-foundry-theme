@@ -43,8 +43,8 @@ Extended design principles, configuration tips, roadmap & contribution guideline
 {
   "editor.bracketPairColorization.enabled": false,
   "editor.semanticHighlighting.enabled": true,
-  "workbench.preferredDarkColorTheme": "iLoveAgents - AI Foundry Dark",
-  "workbench.preferredLightColorTheme": "iLoveAgents - AI Foundry Light"
+  "workbench.preferredDarkColorTheme": "iLoveAgents - Azure AI Foundry Dark",
+  "workbench.preferredLightColorTheme": "iLoveAgents - Azure AI Foundry Light"
 }
 ```
 
