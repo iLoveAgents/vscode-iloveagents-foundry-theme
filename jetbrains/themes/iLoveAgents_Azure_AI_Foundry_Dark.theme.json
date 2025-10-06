@@ -1,0 +1,52 @@
+{
+  "name": "iLoveAgents Azure - AI Foundry (Dark)",
+  "dark": true,
+  "author": "iLoveAgents",
+  "editorScheme": "/colors/iLoveAgents_Azure_AI_Foundry_Dark.xml",
+  "ui": {
+    "*": {"background": "#111317", "foreground": "#e5e7eb", "selectionBackground": "#8b5cf6", "selectionForeground": "#ffffff", "borderColor": "#1f1f1f", "focusColor": "#8b5cf6", "inactiveFocusColor": "#4c1d95"},
+    "ActionButton": {
+      "hoverBackground": "#8b5cf620",
+      "hoverBorderColor": "#8b5cf6",
+      "pressedBackground": "#8b5cf640",
+      "pressedBorderColor": "#a78bfa",
+      "selectedBackground": "#8b5cf640",
+      "selectedBorderColor": "#c084fc",
+      "focusBackground": "#8b5cf620",
+      "focusBorderColor": "#8b5cf6"
+    },
+    "MainToolbar": {
+      "Icon": {
+        "hoverBorderColor": "#8b5cf6",
+        "pressedBorderColor": "#a78bfa",
+        "selectedBorderColor": "#c084fc",
+        "focusBorderColor": "#8b5cf6"
+      }
+    },
+    "Editor": {"background": "#14161a", "foreground": "#e5e7eb"},
+    "StatusBar": {"background": "#0a0a0a", "foreground": "#8b5cf6"},
+    "EditorTabs": {"background": "#111317", "selectedBackground": "#14161a", "selectedForeground": "#e5e7eb", "inactiveForeground": "#6b7280", "underlineColor": "#8b5cf6"},
+    "Tree": {"background": "#14161a", "foreground": "#e5e7eb", "selectionBackground": "#8b5cf640"},
+    "Terminal": {
+      "background": "#14161a",
+      "foreground": "#e5e7eb",
+      "selectionBackground": "#8b5cf640",
+      "black": "#111317",
+      "red": "#ef4444",
+      "green": "#11a194",
+      "yellow": "#fbbf24",
+      "blue": "#60a5fa",
+      "magenta": "#c084fc",
+      "cyan": "#22d3ee",
+      "white": "#e5e7eb",
+      "brightBlack": "#374151",
+      "brightRed": "#f87171",
+      "brightGreen": "#14b8a6",
+      "brightYellow": "#fcd34d",
+      "brightBlue": "#93c5fd",
+      "brightMagenta": "#d8b4fe",
+      "brightCyan": "#67e8f9",
+      "brightWhite": "#ffffff"
+    }
+  }
+}
