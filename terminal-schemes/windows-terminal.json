@@ -1,0 +1,23 @@
+{
+  "name": "iLoveAgents Azure AI Foundry",
+  "background": "#14161a",
+  "foreground": "#e5e7eb",
+  "cursorColor": "#8b5cf6",
+  "selectionBackground": "#2b2236",
+  "black": "#1f2428",
+  "brightBlack": "#374151",
+  "red": "#f87171",
+  "brightRed": "#fca5a5",
+  "green": "#14b8a6",
+  "brightGreen": "#2dd4bf",
+  "yellow": "#fbbf24",
+  "brightYellow": "#fcd34d",
+  "blue": "#60a5fa",
+  "brightBlue": "#93c5fd",
+  "purple": "#a78bfa",
+  "brightPurple": "#c4b5fd",
+  "cyan": "#22d3ee",
+  "brightCyan": "#67e8f9",
+  "white": "#e5e7eb",
+  "brightWhite": "#f3f4f6"
+}

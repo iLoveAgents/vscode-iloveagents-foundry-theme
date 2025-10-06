@@ -1,0 +1,29 @@
+# iLoveAgents Azure AI Foundry - Alacritty colors
+colors:
+  primary:
+    background: '#14161a'
+    foreground: '#e5e7eb'
+  cursor:
+    text:       '#14161a'
+    cursor:     '#8b5cf6'
+  selection:
+    text:       '#e5e7eb'
+    background: '#2b2236'
+  normal:
+    black:   '#1f2428'
+    red:     '#f87171'
+    green:   '#14b8a6'
+    yellow:  '#fbbf24'
+    blue:    '#60a5fa'
+    magenta: '#a78bfa'
+    cyan:    '#22d3ee'
+    white:   '#e5e7eb'
+  bright:
+    black:   '#374151'
+    red:     '#fca5a5'
+    green:   '#2dd4bf'
+    yellow:  '#fcd34d'
+    blue:    '#93c5fd'
+    magenta: '#c4b5fd'
+    cyan:    '#67e8f9'
+    white:   '#f3f4f6'

@@ -48,6 +48,31 @@ Extended design principles, configuration tips, roadmap & contribution guideline
 }
 ```
 
+### Terminals & Shells
+
+Want matching Ghostty / fish (prompt + colors) or other terminal schemes? See `TERMINALS.md` (bundled in the extension).
+
+Fast path (fish + Ghostty only) from repo root:
+
+```fish
+fish shell-snippets/setup-fish-ghostty.fish
+```
+
+This single script handles fish colors, prompt, and Ghostty theme reference. Everything else in `shell-snippets/` and `terminal-schemes/` is optional.
+
+### Included Extras
+
+The extension package includes these helper assets for a cohesive environment:
+
+```text
+terminal-schemes/   # Windows Terminal, iTerm2, Ghostty, Alacritty, Kitty, WezTerm palettes
+shell-snippets/     # setup-fish-ghostty.fish, enhanced fish prompt, zsh & PowerShell snippets
+TERMINALS.md        # Detailed instructions & quick start
+sample-code.*       # Small language samples to preview syntax coloring
+```
+
+JetBrains theme variants live only in the repository (`jetbrains/`) and are not part of the VS Code extension.
+
 ### Contributing
 
 Issues & improvements welcome: <https://github.com/iLoveAgents/vscode-iloveagents-foundry-theme>

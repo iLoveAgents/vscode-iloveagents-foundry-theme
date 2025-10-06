@@ -2,3 +2,17 @@ node_modules
 *.vsix
 .vscode-test/
 .vscode
+
+# Exclude non-VS Code theme assets (JetBrains only)
+jetbrains/
+
+# Internal maintainer docs not required inside the extension
+INSTALL.md
+QUICKSTART.md
+PUBLISHING.md
+
+# Python / type-check caches
+.mypy_cache/
+__pycache__/
+
+# (terminal-schemes/, shell-snippets/, TERMINALS.md, sample-code.* now intentionally included)
