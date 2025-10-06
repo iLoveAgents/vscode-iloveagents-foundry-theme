@@ -30,9 +30,13 @@ Docs & agent patterns: <https://iloveagents.ai>
 
 ## Screenshots
 
-Light: ![Light Theme](images/screenshot-light.png)
+iLoveAgents - Azure AI Foundry Light: ![Light Theme](images/screenshot-foundry-light.png)
 
-Dark: ![Dark Theme](images/screenshot-dark.png)
+iLoveAgents - Light: ![Light Theme](images/screenshot-light.png)
+
+iLoveAgents - Azure AI Foundry Dark: ![Dark Theme](images/screenshot-foundry-dark.png)
+
+iLoveAgents - Dark: ![Dark Theme](images/screenshot-dark.png)
 
 ---
 
