@@ -18,12 +18,21 @@ Professional VS Code color themes optimized for AI development work.
 
 ## Key Design Principles
 
+### Azure AI Foundry Brand Colors
+
+The Azure AI Foundry brand uses a gradient from **blue → purple → magenta**:
+
+- **Primary Blue**: `#0078D4` (Azure Blue) - base brand color
+- **Gradient Purple**: `#7B68EE` to `#8B5CF6` - transitional brand gradient  
+- **Accent Magenta**: `#E3008C` to `#FF1493` - high-energy accent
+- **Supporting Cyan**: `#00CED1` - data/tech emphasis
+
 ### Visual Hierarchy
 
-- **Functions**: Purple/Indigo (`#5637C9`) - Most important, stands out
-- **Keywords**: Azure Blue (`#0078D4`) - Control flow and language constructs  
-- **Strings**: Magenta (`#E3008C`) - Data and content
-- **Numbers**: Cyan (`#1AA4E8`) - Literals and constants
+- **Functions**: Vibrant Purple (`#7B68EE`) - Most important, stands out
+- **Keywords**: Bright Blue (`#1E90FF`) - Control flow and language constructs  
+- **Strings**: Deep Pink (`#FF1493`) - Data and content
+- **Numbers**: Dark Turquoise (`#00CED1`) - Literals and constants
 - **Comments**: Muted gray with italic styling
 
 ### Developer Experience

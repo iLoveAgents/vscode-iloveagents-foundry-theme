@@ -48,8 +48,8 @@
     ]
   },
   "scripts": {
-    "copy-to-vscode": "cp themes/*.json ~/.vscode/extensions/iloveagents.iloveagents-ai-foundry-theme-*/themes/ 2>/dev/null || echo 'VS Code extension not found - install from marketplace first'",
-    "copy-to-insiders": "cp themes/*.json ~/.vscode-insiders/extensions/iloveagents.iloveagents-ai-foundry-theme-*/themes/ 2>/dev/null || echo 'VS Code Insiders extension not found - install from marketplace first'",
+    "copy-to-vscode": "LATEST=$(ls -td ~/.vscode/extensions/iloveagents.iloveagents-ai-foundry-theme-* 2>/dev/null | head -1); if [ -n \"$LATEST\" ]; then cp themes/*.json \"$LATEST/themes/\"; echo \"Copied to $LATEST\"; else echo 'VS Code extension not found - install from marketplace first'; fi",
+    "copy-to-insiders": "LATEST=$(ls -td ~/.vscode-insiders/extensions/iloveagents.iloveagents-ai-foundry-theme-* 2>/dev/null | head -1); if [ -n \"$LATEST\" ]; then cp themes/*.json \"$LATEST/themes/\"; echo \"Copied to $LATEST\"; else echo 'VS Code Insiders extension not found - install from marketplace first'; fi",
     "dev-sync": "npm run copy-to-vscode && npm run copy-to-insiders"
   },
   "repository": {
