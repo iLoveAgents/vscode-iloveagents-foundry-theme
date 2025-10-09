@@ -2,7 +2,7 @@
   "name": "iloveagents-ai-foundry-theme",
   "displayName": "iLoveAgents - Azure AI Foundry Themes",
   "description": "Professional color themes for AI developers",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "publisher": "iloveagents",
   "engines": {
     "vscode": "^1.80.0"

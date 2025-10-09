@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.5.2 – Selection Visibility & Developer Workflow
+
+**Improvements:**
+- Fixed selection colors in light themes for better visibility in editor and terminal
+- Adjusted `editor.selectionBackground` and `terminal.selectionBackground` to 60% opacity
+- Fine-tuned selection hierarchy (main: 60%, highlight: 40%, inactive: 25%)
+- Added development workflow npm scripts:
+  - `npm run copy-to-vscode` - Copy themes to VS Code stable
+  - `npm run copy-to-insiders` - Copy themes to VS Code Insiders
+  - `npm run dev-sync` - Copy to both VS Code versions
+- Added comprehensive `AGENTS.md` documentation following agents.md best practices
+
+**Technical Details:**
+- Azure AI Foundry Light: `#0078D460` for selections
+- Classic iLoveAgents Light: `#8b5cf660` for selections
+- Developer workflow now supports rapid theme iteration and testing
+
 ## 0.5.0 – Dual Theme Family & Logo-Coherent Palette
 
 **Major Update: Two Theme Families**
